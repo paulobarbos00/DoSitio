@@ -16,6 +16,9 @@ Banco de Dados:
 - MongoDB Atlas
 
 
+Prótotipo de Telas:
+www.figma.com/proto/hLEXhkI5BNvqrB0bdpMblR/DoS%C3%ADtio?node-id=2%3A9&starting-point-node-id=2%3A4
+
 ## Time:
 - JOÃO VICTOR   jvmv1@aluno.ifal.edu.br
 - Ytalo
