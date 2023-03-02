@@ -22,6 +22,6 @@ www.figma.com/proto/hLEXhkI5BNvqrB0bdpMblR/DoS%C3%ADtio?node-id=2%3A9&starting-p
 ## Time:
 - JOÃO VICTOR   jvmv1@aluno.ifal.edu.br
 - Ytalo
-- Lucas
+- Lucas Costa   lgmc1@aluno.ifal.edu.br
 - Marcelo
 - Hudson
